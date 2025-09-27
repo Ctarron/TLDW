@@ -1,4 +1,4 @@
-# TLDW - The Last Dragon was...
+# The Last Dragon was...
 
 [![Downloads](https://img.shields.io/github/downloads/Ctarron/TLDW/total)](https://github.com/Ctarron/TLDW/releases)
 [![Latest Release](https://img.shields.io/github/v/release/Ctarron/TLDW)](https://github.com/Ctarron/TLDW/releases/latest)
@@ -22,25 +22,6 @@ TLDW is an adventure map for vanilla Minecraft where players must learn spells a
 
 - **Latest Release**: [Download Here](https://github.com/Ctarron/TLDW/releases/latest)
 - **All Releases**: [View All Versions](https://github.com/Ctarron/TLDW/releases)
-
-## Technical Requirements
-
-### Server Configuration
-
-For the map to function correctly, ensure your `server.properties` file includes the following **required** setting:
-
-```properties
-enable-command-block=true
-```
-
-### Recommended Server Settings
-
-```properties
-difficulty=hard
-gamemode=adventure
-simulation-distance=12
-view-distance=12
-```
 
 ## Multiplayer Setup
 
