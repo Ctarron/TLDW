@@ -5,6 +5,10 @@
 
 [Ctarron discord](https://discord.gg/jbTWxc4jjv) server for feedback/doubts.
 
+Also on [Planet Minecraft](https://www.planetminecraft.com/project/the-last-dragon-was/)
+
+Also on [Minecraft Maps](https://www.minecraftmaps.com/50880-the-last-dragon-was)
+
 ## Overview
 
 **Answer the call and let the journey ignite. The path to the Last Dragon opens only to those who possess them all.**
