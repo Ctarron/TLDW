@@ -1,0 +1,4 @@
+clear @s minecraft:bow
+item replace entity @s hotbar.0 with bow[!attribute_modifiers,use_cooldown={seconds:0.5,cooldown_group:"ctarron:staff"},enchantments={"staff:acid":1},unbreakable={},enchantment_glint_override=false,item_model="ctarron:acid",item_name={"bold":true,"color":"dark_green","fallback":"Acid shot","translate":"ctarron.acid"},lore=[{"fallback":"Hold right click to charge.","translate":"ctarron.acid.lore1"},{"fallback":"Release to shoot a toxic projectile.","translate":"ctarron.acid.lore2"},{"fallback":"Can also be used to dissolve exposed copper and to put out fires.","translate":"ctarron.acid.lore3"}],tooltip_display={hidden_components:["unbreakable","attribute_modifiers"]}] 1
+execute positioned 0 0 0 as @n[type=marker,tag=fake_player,distance=..0.01] run tag @s add acid
+

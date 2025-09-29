@@ -1,0 +1,21 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "ctarron:bubble"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "ctarron:water",
+        "tints": [
+          {
+            "type": "minecraft:constant",
+            "value": 3652425
+          }
+        ]
+      }
+    ]
+  }
+}

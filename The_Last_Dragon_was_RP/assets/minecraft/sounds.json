@@ -1,0 +1,95 @@
+{
+  "entity.splash_potion.break": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "mob/strider/step_lava1",
+        "volume": 0.5,
+        "pitch": 1.4
+      },
+      {
+        "name": "mob/strider/step_lava2",
+        "volume": 0.5,
+        "pitch": 1.4
+      },
+      {
+        "name": "mob/strider/step_lava3",
+        "volume": 0.5
+      },
+      {
+        "name": "random/fizz",
+        "volume": 0.4
+      }
+    ]
+  },
+  "entity.arrow.shoot": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity/witch/throw1",
+        "volume": 0.65
+      },
+      {
+        "name": "entity/witch/throw2",
+        "volume": 0.65
+      },
+      {
+        "name": "entity/witch/throw3",
+        "volume": 0.65
+      }
+    ]
+  },
+  "music.creative":{
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ctarron:sound_of_magic",
+        "stream": true,
+        "weight": 4
+      },{
+        "name":"ctarron:distant_roar",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.game":{
+    "replace": true,
+    "sounds": []
+  },
+  "music.under_water":{
+    "replace": true,
+    "sounds": []
+  },
+  "block.copper.break": {
+    "sounds": [
+      {
+        "name": "random/fizz",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "ctarron.headshot": {
+    "sounds": [
+      {
+        "name": "random/successful_hit",
+        "volume": 0.1,
+        "pitch": 0.5
+      }
+    ]
+  },
+  "item.armor.equip_generic": {
+    "replace": true,
+    "sounds": []
+  },
+  "ctarron.credits": {
+    "sounds": [
+      {
+        "name": "ctarron:decisive",
+        "volume": 1,
+        "stream": true
+      }
+    ]
+  }
+}

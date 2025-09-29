@@ -1,0 +1,4 @@
+clear @s minecraft:trident
+item replace entity @s hotbar.1 with trident[unbreakable={},!attribute_modifiers,enchantments={"staff:fire":1},enchantment_glint_override=false,use_cooldown={seconds:1,cooldown_group:"ctarron:staff"},item_model="ctarron:fire",item_name={"bold":true,"color":"dark_red","fallback":"Fire ball","translate":"ctarron.fire"},lore=[{"fallback":"Hold right click to charge.","translate":"ctarron.fire.lore1"},{"fallback":"Release to shoot a fireball.","translate":"ctarron.fire.lore2"},{"fallback":"Can also be used to propel yourself in the air and to ignite fires.","translate":"ctarron.fire.lore3"}],tooltip_display={hidden_components:["unbreakable","attribute_modifiers"]}] 1
+
+execute positioned 0 0 0 as @n[type=marker,tag=fake_player,distance=..0.01] run tag @s add fire

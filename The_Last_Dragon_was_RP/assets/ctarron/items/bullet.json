@@ -1,0 +1,67 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "ctarron:spell_outline"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "ctarron:spell_bullet"
+            }
+          ]
+        },
+        "when": [
+          "gui",
+          "ground"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:composite",
+      "models": [
+        {
+          "type": "minecraft:model",
+          "model": "ctarron:staff_aim"
+        },
+        {
+          "type": "minecraft:model",
+          "model": "ctarron:scope1",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 64511
+            }
+          ]
+        },
+        {
+          "type": "minecraft:model",
+          "model": "ctarron:scope2",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 64511
+            }
+          ]
+        },
+        {
+          "type": "minecraft:model",
+          "model": "ctarron:scope3",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 64511
+            }
+          ]
+        }
+      ]
+    },
+    "property": "minecraft:display_context"
+  },
+  "hand_animation_on_swap": true
+}

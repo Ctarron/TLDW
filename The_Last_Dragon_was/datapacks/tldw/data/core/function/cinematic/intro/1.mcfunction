@@ -1,0 +1,2 @@
+item modify entity @a armor.head {"function":"minecraft:set_components","components":{"equippable":{slot:"head",camera_overlay:"ctarron:intro/1"},item_model:"ctarron:hat_nof5"}}
+schedule function core:cinematic/intro/2 1s

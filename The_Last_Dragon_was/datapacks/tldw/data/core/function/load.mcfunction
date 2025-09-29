@@ -1,0 +1,1 @@
+function state:room/delay_tick with storage ctarron:current

@@ -1,0 +1,22 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:hat_empty"
+        },
+        "when": [
+          "gui"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "ctarron:no_f5"
+    }
+  },
+  "hand_animation_on_swap": false
+}

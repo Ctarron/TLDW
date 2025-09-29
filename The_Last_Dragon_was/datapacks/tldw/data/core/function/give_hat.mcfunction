@@ -1,0 +1,1 @@
+item replace entity @s armor.head with friend_pottery_sherd[enchantments={"minecraft:binding_curse":1, "core:invulnerable":1},item_model="ctarron:hat",enchantment_glint_override=false,tooltip_display={hide_tooltip:true}] 1

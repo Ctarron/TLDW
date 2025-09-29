@@ -1,0 +1,1 @@
+summon shulker ~ ~ ~ {Silent:1b,Tags:[dynamic],DeathTime:19,NoAI:1b,Health:1f,AttachFace:0b,Color:14b,equipment:{head:{id:"minecraft:iron_helmet",count:1,components:{"minecraft:enchantments":{"core:vulnerable_explosion":1}}}}}

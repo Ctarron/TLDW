@@ -1,0 +1,1 @@
+$schedule function state:room/$(room)/tick 20t

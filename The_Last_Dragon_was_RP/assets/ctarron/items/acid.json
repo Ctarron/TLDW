@@ -1,0 +1,52 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "ctarron:spell_outline"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/slime_ball",
+              "tints": [
+                {
+                  "type": "minecraft:custom_model_data",
+                  "default": 2466362
+                }
+              ]
+            }
+          ]
+        },
+        "when": [
+          "gui",
+          "ground"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "property": "minecraft:using_item",
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "ctarron:staff_acid",
+        "tints": [
+          {
+            "type": "minecraft:constant",
+            "value": 880924
+          }
+        ]
+      },
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "ctarron:staff"
+      }
+    },
+    "property": "minecraft:display_context"
+  },
+  "hand_animation_on_swap": false
+}

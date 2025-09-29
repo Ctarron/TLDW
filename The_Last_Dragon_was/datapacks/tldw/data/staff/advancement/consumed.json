@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "consume": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:stone_sword"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "staff:bullet/missed"
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,4 @@
+clear @s minecraft:stone_sword
+item replace entity @s hotbar.2 with stone_sword[attribute_modifiers=[{id:"entity_interaction_range",type:"entity_interaction_range",amount:40,operation:"add_value",slot:"mainhand"}],unbreakable={},item_model="ctarron:bullet",custom_data={bullet:1b},consumable={consume_seconds:0,sound:"entity.creaking.freeze",animation:"bow",has_consume_particles:false},use_cooldown={seconds:2,cooldown_group:"ctarron:staff"},item_name={"bold":true,"color":"aqua","fallback":"Electric charge","translate":"ctarron.bullet"},lore=[{"fallback":"Right click to shoot a projectile up to 25 blocks.","translate":"ctarron.bullet.lore1"},{"fallback":"If it hits a mob it will die instantly and have no cooldown.","translate":"ctarron.bullet.lore2"}],tooltip_display={hidden_components:["unbreakable","attribute_modifiers"]}] 1
+
+execute positioned 0 0 0 as @n[type=marker,tag=fake_player,distance=..0.01] run tag @s add bullet

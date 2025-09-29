@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"layer0": "ctarron:item/scope2",
+		"particle": "block/dark_oak_log"
+	},
+	"elements": [
+		{
+			"from": [6, 9, 3],
+			"to": [10, 9, 7],
+			"shade": false,
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 9, 3]},
+			"faces": {
+				"up": {"uv": [0, 0, 15, 15], "texture": "#layer0", "tintindex": 0},
+				"down": {"uv": [0, 0, 15, 15], "texture": "#layer0", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [127, 0, 0],
+			"translation": [-2, 5.25, -4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [127, 0, 0],
+			"translation": [-2, 5.25, -4]
+		},
+		"firstperson_righthand": {
+			"rotation": [96, 0, -2],
+			"translation": [-1.5, 0.25, -7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [96, 0, -2],
+			"translation": [-1.5, 0.25, -7]
+		},
+		"ground": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

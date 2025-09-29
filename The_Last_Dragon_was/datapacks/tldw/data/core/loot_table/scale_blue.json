@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "conditions": [],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "ctarron:scale",
+                "minecraft:custom_model_data": {
+                  "colors": [
+                    56831
+                  ]
+                },
+                "minecraft:item_name": {
+                  "translate": "ctarron.scale_blue",
+                  "fallback": "Blue Scale",
+                  "with": [],
+                  "type": "translatable",
+                  "color": "#04b8c1",
+                  "shadow_color": -16494512,
+                  "bold": true,
+                  "italic": true
+                },
+                "minecraft:tooltip_display": {
+                  "hide_tooltip": true
+                }
+              }
+            }
+          ],
+          "name": "minecraft:flow_pottery_sherd"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "minecraft:entities/blaze"
+}
