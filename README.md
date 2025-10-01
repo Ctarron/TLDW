@@ -1,13 +1,12 @@
 # The Last Dragon was...
 
-[![Downloads](https://img.shields.io/github/downloads/Ctarron/TLDW/total)](https://github.com/Ctarron/TLDW/releases)
-[![Latest Release](https://img.shields.io/github/v/release/Ctarron/TLDW)](https://github.com/Ctarron/TLDW/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/Ctarron/TLDW?color=green)](https://github.com/Ctarron/TLDW/releases/latest)
 
 [Ctarron discord](https://discord.gg/jbTWxc4jjv) server for feedback/doubts.
 
-Also on [Planet Minecraft](https://www.planetminecraft.com/project/the-last-dragon-was/)
-
 Also on [Minecraft Maps](https://www.minecraftmaps.com/50880-the-last-dragon-was)
+
+Also on [Planet Minecraft](https://www.planetminecraft.com/project/the-last-dragon-was/)
 
 ## Overview
 
@@ -15,7 +14,7 @@ Also on [Minecraft Maps](https://www.minecraftmaps.com/50880-the-last-dragon-was
 
 TLDW is an adventure map for vanilla Minecraft where players must learn spells and rise to the top of the mysterious tower.
 
-## Game Details
+## Details
 
 - **Duration**: 10-20 minute adventure
 - **Minecraft Version**: 1.21.8 (Vanilla)
@@ -24,8 +23,8 @@ TLDW is an adventure map for vanilla Minecraft where players must learn spells a
 
 ## Downloads
 
-- **Latest Release**: [Download Here](https://github.com/Ctarron/TLDW/releases/latest)
-- **All Releases**: [View All Versions](https://github.com/Ctarron/TLDW/releases)
+[![Map](https://img.shields.io/github/downloads/Ctarron/TLDW/The_Last_Dragon_was.zip?label=Map%20Downloads&color=blue&style=for-the-badge)](https://github.com/Ctarron/TLDW/releases/latest)[![ResourcePack](https://img.shields.io/github/downloads/Ctarron/TLDW/The_Last_Dragon_was_RP.zip?label=RP%20Downloads&color=red&style=for-the-badge)](https://github.com/Ctarron/TLDW/releases/latest)\
+[![MinecraftMaps](https://img.shields.io/badge/dynamic/regex?url=https://www.minecraftmaps.com/index.php?option=com_jdownloads&view=download&id=50880:the-last-dragon-was&search=%3Cspan%20class%3D%22jd-download-stat-value%22%3E(%5B%5Cd%2C%5D%2B)%3C%5C%2Fspan%3E&replace=%241&label=Minecraft%20Maps&color=%251b8738&style=for-the-badge)](https://www.minecraftmaps.com/index.php?option=com_jdownloads&view=download&id=50880:the-last-dragon-was)
 
 ## Multiplayer Setup
 
