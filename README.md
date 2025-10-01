@@ -24,7 +24,7 @@ TLDW is an adventure map for vanilla Minecraft where players must learn spells a
 ## Downloads
 
 [![Map](https://img.shields.io/github/downloads/Ctarron/TLDW/The_Last_Dragon_was.zip?label=Map%20Downloads&color=blue&style=for-the-badge)](https://github.com/Ctarron/TLDW/releases/latest)[![ResourcePack](https://img.shields.io/github/downloads/Ctarron/TLDW/The_Last_Dragon_was_RP.zip?label=RP%20Downloads&color=red&style=for-the-badge)](https://github.com/Ctarron/TLDW/releases/latest)\
-[![MinecraftMaps](https://img.shields.io/badge/dynamic/regex?url=https://www.minecraftmaps.com/index.php?option=com_jdownloads&view=download&id=50880:the-last-dragon-was&search=%3Cspan%20class%3D%22jd-download-stat-value%22%3E(%5B%5Cd%2C%5D%2B)%3C%5C%2Fspan%3E&replace=%241&label=Minecraft%20Maps&color=%251b8738&style=for-the-badge)](https://www.minecraftmaps.com/index.php?option=com_jdownloads&view=download&id=50880:the-last-dragon-was)
+[![MinecraftMaps](https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fwww.minecraftmaps.com%2F50880-the-last-dragon-was&search=%3Cspan%20class%3D%22jd-download-stat-value%22%3E(%5B%5Cd%2C%5D%2B)%3C%2Fspan%3E&replace=%241&label=Minecraft%20Maps&color=%251b8738&style=for-the-badge)](https://www.minecraftmaps.com/index.php?option=com_jdownloads&view=download&id=50880:the-last-dragon-was)
 
 ## Multiplayer Setup
 
